@@ -7,4 +7,4 @@ Kernel   |  System libraries   |  system software   |   user processor   |    co
 ```
 
 # kernel?
-kernel is the heart of the operating system.
+kernel is the heart of the operating system and it establishes a connection between hardware and software. it also does **device management**, **memory management**, **process management**, and **Handling system** calls.
