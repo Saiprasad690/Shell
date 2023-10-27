@@ -4,6 +4,7 @@ It manages the computer's memory and processes, as well as all of its software a
 Fundamentals are:
 ```
 Kernel   |  System libraries   |  system software   |   user processor   |    compilers
+```
 
 # kernel?
 kernel is the heart of the operating system.
