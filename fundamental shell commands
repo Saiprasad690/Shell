@@ -1,0 +1,4 @@
+free -g --------------- memory of the server
+nproc ------------------number of CPU's
+df -h ------------------disk size
+top ---------------------important of all 
