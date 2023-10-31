@@ -1,3 +1,13 @@
+#Create an ec2 instance and git clone the repository#
+#export username="saiprasad"
+#export Github token="qwertyuiop"
+move to the file cd 
+run the file {./filename organisation repositoryname}
+change the permission like chmod 777 filename
+sudo apt install jq -y
+
+
+
 #!/bin/bash
 ################################
 # Author: Abhishek
