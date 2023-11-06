@@ -2,3 +2,4 @@ free -g --------------- memory of the server
 nproc ------------------number of CPU's
 df -h ------------------disk size
 top ---------------------show Linux process
+ps -ef | grep 'process name'------------- shows which process running
